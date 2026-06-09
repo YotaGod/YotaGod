@@ -124,8 +124,6 @@ const rizalul = {
 
 ---
 
-## 🕹️ Pacman eats my Contributions
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YotaGod/YotaGod/output/pacman-contribution-graph-dark.svg" />
