@@ -72,6 +72,8 @@ const rizalul = {
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |:---|:---|:---:|
 | [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web komprehensif untuk mengeksplorasi destinasi wisata di Indonesia. Membantu wisatawan menemukan tempat menarik berdasarkan pulau, daerah, kategori, dan ulasan pengguna, sekaligus menyediakan sistem manajemen destinasi berlapis untuk Admin Regional dan Super Admin. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
+| [**SeputarDunia**](https://github.com/YotaGod/SeputarDunia) | Portal berita modern dan interaktif berbasis CodeIgniter 4. Dilengkapi fitur akses berlangganan premium (Midtrans), integrasi berita global (GNews API), sistem komentar, dan desain UI bergaya glassmorphism. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
+| [**YotaLeague**](https://github.com/YotaGod/YotaLeague) | Bagan eFootball mempermudah penyelenggara atau pemain untuk mengatur jalannya turnamen tanpa perlu mencatat manual. Aplikasi ini dapat mengkalkulasi skor, memajukan pemenang ke ronde berikutnya secara otomatis, dan menyusun klasemen jika menggunakan sistem liga. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
 
 <!-- PINNED_REPOS_END -->
 
