@@ -124,15 +124,19 @@ const rizalul = {
 
 ---
 
-## Contribution Graph
+## 🕹️ Pacman eats my Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YotaGod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d2840" width="100%" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YotaGod/YotaGod/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YotaGod/YotaGod/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YotaGod/YotaGod/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## 2026 Goals
+## 🎯 2026 Goals
 
 ```
 [████████████░░░░░░░░] 60%  🚀 Launch Lisory to production
