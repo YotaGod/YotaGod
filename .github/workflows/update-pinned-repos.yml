@@ -1,15 +1,10 @@
 name: 🔄 Update Pinned Repos
 
 on:
-  # Jalan otomatis setiap hari jam 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
-
-  # Jalan setiap kali push ke main
+    - cron: "0 0 * * *"   # setiap hari jam 00:00 UTC (07:00 WIB)
   push:
     branches: [main]
-
-  # Bisa dijalankan manual dari tab Actions di GitHub
   workflow_dispatch:
 
 jobs:
@@ -18,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # butuh izin tulis untuk commit balik ke repo
+      contents: write
 
     steps:
       - name: ⬇️ Checkout repository
@@ -36,11 +31,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_pinned_repos.py
 
+      - name: 🔎 Show git diff (debug)
+        run: git diff README.md
+
       - name: 📝 Commit & push changes (if any)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Hanya commit jika ada perubahan
-          git diff --staged --quiet || git commit -m "chore(auto): update pinned repos [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "ℹ️ README is already up to date — nothing to commit."
+          else
+            echo "✅ Changes detected, committing..."
+            git commit -m "chore(auto): sync pinned repos [skip ci]"
+            git push
+            echo "🚀 Pushed!"
+          fi
