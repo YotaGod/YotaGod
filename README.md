@@ -71,12 +71,7 @@ const rizalul = {
 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |:---|:---|:---:|
-| [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web eksplorasi destinasi wisata Indonesia | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
-| [**SeputarDunia**](https://github.com/YotaGod/SeputarDunia) | Portal berita modern & interaktif berbasis CI4 + Glassmorphism UI | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
-| [**smartrank-tech**](https://github.com/YotaGod/smartrank-tech) | Sistem Pendukung Keputusan rekomendasi smartphone | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
-| [**YotaLeague**](https://github.com/YotaGod/YotaLeague) | Aplikasi manajemen & informasi liga sepak bola yang modern | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
-| [**Scraper_From_GooglePlay**](https://github.com/YotaGod/Scraper_From_GooglePlay) | Scraper ulasan & data aplikasi dari Google Play Store | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
-| [**TimerFocus**](https://github.com/YotaGod/TimerFocus) | Web app pelacak waktu fokus untuk produktivitas | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
+| [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web komprehensif untuk mengeksplorasi destinasi wisata di Indonesia. Membantu wisatawan menemukan tempat menarik berdasarkan pulau, daerah, kategori, dan ulasan pengguna, sekaligus menyediakan sistem manajemen destinasi berlapis untuk Admin Regional dan Super Admin. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
 
 <!-- PINNED_REPOS_END -->
 
