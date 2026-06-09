@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```ts
 const rizalul = {
@@ -38,23 +38,23 @@ const rizalul = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frameworks & Tools
+### Frameworks & Tools
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Dev Environment
+### Dev Environment
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -63,13 +63,13 @@ const rizalul = {
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <!-- PINNED_REPOS_START -->
 
-| 🚀 Project | 📝 Description | 🛠 Stack |
+|  Project |  Description |  Stack |
 |:---|:---|:---:|
 | [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web komprehensif untuk mengeksplorasi destinasi wisata di Indonesia. Me… | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
 | [**SeputarDunia**](https://github.com/YotaGod/SeputarDunia) | Portal berita modern dan interaktif berbasis CodeIgniter 4. Dilengkapi fitur aks… | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
@@ -81,7 +81,7 @@ const rizalul = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@ const rizalul = {
 
 ---
 
-## 🌟 Skills & Expertise
+## Skills & Expertise
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const rizalul = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YotaGod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d2840" width="100%" alt="Contribution Graph"/>
@@ -132,7 +132,7 @@ const rizalul = {
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 ```
 [████████████░░░░░░░░] 60%  🚀 Launch Lisory to production
@@ -146,13 +146,13 @@ const rizalul = {
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### Dev Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-### 👁️ Profile Views
+### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YotaGod&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
