@@ -69,7 +69,7 @@ const rizalul = {
 
 <!-- PINNED_REPOS_START -->
 
-|  Project |  Description |  Stack |
+| 🚀 Project | 📝 Description | 🛠 Stack |
 |:---|:---|:---:|
 | [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web komprehensif untuk mengeksplorasi destinasi wisata di Indonesia. Me… | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
 | [**SeputarDunia**](https://github.com/YotaGod/SeputarDunia) | Portal berita modern dan interaktif berbasis CodeIgniter 4. Dilengkapi fitur aks… | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
