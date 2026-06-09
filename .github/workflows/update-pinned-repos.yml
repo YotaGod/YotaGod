@@ -1,0 +1,46 @@
+name: 🔄 Update Pinned Repos
+
+on:
+  # Jalan otomatis setiap hari jam 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Jalan setiap kali push ke main
+  push:
+    branches: [main]
+
+  # Bisa dijalankan manual dari tab Actions di GitHub
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Fetch pinned repos & update README
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # butuh izin tulis untuk commit balik ke repo
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 🔍 Fetch pinned repos & update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_pinned_repos.py
+
+      - name: 📝 Commit & push changes (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Hanya commit jika ada perubahan
+          git diff --staged --quiet || git commit -m "chore(auto): update pinned repos [skip ci]"
+          git push
