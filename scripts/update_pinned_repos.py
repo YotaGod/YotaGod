@@ -100,7 +100,8 @@ def main():
     ]
     for repo in repos:
         name  = repo["name"]
-        desc  = (repo.get("description") or "—").replace("|", "\\|")
+        raw_desc = (repo.get("description") or "—").replace("|", "\\|")
+        desc  = raw_desc[:80] + "…" if len(raw_desc) > 80 else raw_desc
         url   = repo["url"]
         lang  = (repo.get("primaryLanguage") or {}).get("name", "")
         rows.append(f"| [**{name}**]({url}) | {desc} | {make_badge(lang)} |")
