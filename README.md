@@ -74,6 +74,7 @@ const rizalul = {
 | [**JelajahNusantara**](https://github.com/YotaGod/JelajahNusantara) | Platform web komprehensif untuk mengeksplorasi destinasi wisata di Indonesia. Me… | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) |
 | [**SeputarDunia**](https://github.com/YotaGod/SeputarDunia) | Portal berita modern dan interaktif berbasis CodeIgniter 4. Dilengkapi fitur aks… | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) |
 | [**YotaLeague**](https://github.com/YotaGod/YotaLeague) | Bagan eFootball mempermudah penyelenggara atau pemain untuk mengatur jalannya tu… | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
+| [**Kabarin**](https://github.com/YotaGod/Kabarin) | Kota Pintar adalah platform pelaporan masalah publik terintegrasi yang dirancang… | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
 
 <!-- PINNED_REPOS_END -->
 
